@@ -1,9 +1,0 @@
-| Military |
-| --- | --- |
-| Military branches: | Army, Navy, Air Force, National Police |
-| Military manpower - military age: | 18 years of age |
-| Military manpower - availability: | males age 15-49: 2,281,035 (2001 est.) |
-| Military manpower - fit for military service: | males age 15-49: 1,430,776 (2001 est.) |
-| Military manpower - reaching military age annually: | males: 87,404 (2001 est.) |
-| Military expenditures - dollar figure: | $180 million (FY98) |
-| Military expenditures - percent of GDP: | 1.1% (FY98) |
